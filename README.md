@@ -12,5 +12,3 @@
 Downloads
 1. [Install Script](https://raw.githubusercontent.com/batlantern18/immich-install-script-mac/refs/heads/main/setup-immich-mac.sh)
 2. [Uninstall Script](https://raw.githubusercontent.com/batlantern18/immich-install-script-mac/refs/heads/main/uninstall-immich-mac.sh)
-
-<a href="https://raw.githubusercontent.com/batlantern18/immich-install-script-mac/refs/heads/main/setup-immich-mac.sh" download="setup-immich-mac.sh">Download Setup Script</a>
